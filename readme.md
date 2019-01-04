@@ -6,7 +6,7 @@ The reason for this device handler is because i wanted a bulb that behaved a bit
 **Works:**
 - TRADFRI bulb E27 WS opal 980lm
 - TRADFRI bulb E14 WS opal 400lm
-- TRADFRI bulb GU10 WS 400lm
+- TRADFRI bulb GU10 WS 400lm 
 
 **Untested but should work:**
 - TRADFRI bulb E27 WS clear 950lm
